@@ -1,7 +1,7 @@
 #write your code here
 
 def countdown(num)
-counter = 1
+counter = 0
   num.times do
     counter+=1
 puts"#{counter} SECOND(S)"
